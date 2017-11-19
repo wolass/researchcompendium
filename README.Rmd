@@ -20,21 +20,19 @@ knitr::opts_chunk$set(
 [![Circle CI](https://circleci.com/gh/benmarwick/researchcompendium.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/benmarwick/researchcompendium)
 [![codecov.io](https://codecov.io/github/benmarwick/researchcompendium/coverage.svg?branch=master)](https://codecov.io/github/benmarwick/researchcompendium?branch=master) [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0001--7879--4531-green.svg)](http://orcid.org/0000-0001-7879-4531) 
 
-## Research compendium for a report on xxxx
+## Research compendium for a report on refractory anaphylaxis
 
 ### Compendium DOI: 
  
 http://dx.doi.org/xxxxxxx
 
-The files at the URL above will generate the results as found in the publication. The files hosted at github.com/benmarwick/researchcompendium are the development versions and may have changed since the report was published
-
 ### Authors  of this repository:
 
-Ben Marwick (benmarwick@gmail.com)
+Wojciech Francuzik (wolass@gmail.com)
 
 ### Published in: 
 
-Marwick, B,  xxxxx 
+Francuzik, W,  xxxxx 
 
 ### Overview of contents
 
@@ -89,12 +87,13 @@ I used [RStudio](http://www.rstudio.com/products/rstudio/) on Ubuntu 16.04 and W
 
 ### Contact
 
-Ben Marwick, Associate Professor, Department of Anthropology
-Denny Hall 117, Box 353100, University of Washington
-Seattle, WA 98195-3100 USA
+Wojciech Francuzik, M.D., Department of Dermatology, Venerology and Allergology
+Chariteplatz 1, 10117, Charite Universitaetsmedizin Beriln. 
+Berlin, Germany. 
 
-t. (+1) 206.552.9450   e. bmarwick@uw.edu
-f. (+1) 206.543.3285   w. http://faculty.washington.edu/bmarwick/
+t. (+49) 30 450 618 344  e. wojciech. francuzik@charite.de
 
+### Aclnowledgement: 
 
+The files hosted at github.com/benmarwick/researchcompendium were used as a template for this compendium. Ben Marwick is the author of this template. 
 

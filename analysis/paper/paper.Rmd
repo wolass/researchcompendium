@@ -1,7 +1,8 @@
 ---
-title: 'The title'
+title: 'Risk Factors and Treatment of Refractory Anaphylaxis - a systematic Review'
 author:
-- Ben Marwick
+- Wojciech Francuzik
+- Margitta Worm
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
    bookdown::word_document2:
@@ -14,11 +15,41 @@ abstract: |
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-project_start_date <- "2017-06-01"
+project_start_date <- "2017-10-19"
 # checkpoint::checkpoint(snapshotDate = project_start_date, use.knitr = TRUE)
 ```
 
 # Introduction
+
+1. Definition of refractory anaphylaxis
+2. Epidemiology of refractory anaphylaxis
+3. Describe the rationale for the review in the context of what is already known.
+4.Provide an explicit statement of questions being addressed with reference to 
+  *participants, 
+  *interventions, 
+  *comparisons, 
+  *outcomes, and 
+  *study design (PICOS).
+
+Refractory anaphylaxis is the most severe form of type I hypersensitivity reactions which does not respond to treatment. 
+when?
+why?
+who is at risk?
+incidence?
+elicitors?
+
+# Epidemiology of refractory anaphylaxis
+
+
+
+# Definition and clinical symptoms of refractory anaphylaxis
+# Risk factors of refractory anaphylaxis
+# Therapy of refractory anaphylaxis
+
+# References
+
+
+
 
 ## R Markdown
 
